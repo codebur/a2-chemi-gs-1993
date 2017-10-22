@@ -13,6 +13,6 @@ I provide the code as is. I haven’t touched it for decades. Have fun!
 
 **Files**
 
-- ``*.asm`` source files for the projects. I don’t remember how everything adds up, but everything should be there
+- ``*.asm`` source files for the projects. I don’t remember how it all adds up, but everything should be there
 - ``gen, mak`` some workflow automation files
 - ``CodeBurger.image.zip`` Zipped disk image file containg the ChemiGS program and some sample files.
