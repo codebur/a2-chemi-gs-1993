@@ -1,0 +1,1 @@
+set keeptype s16* copy -c {1}.asm {1}.bak* cp {1}.asm {1}.bakedit {1}.asmmacgen {1}.asm {1}.macros 13:Orcainclude:m=assemble +E {1}.asmlink main menu globals sys6 windows file print tools xform draw text keep=Chemixfiletype Chemix s16 $DB07
